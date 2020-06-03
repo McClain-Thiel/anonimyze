@@ -1,0 +1,7 @@
+Flask
+matplotlib
+numpy
+imutils
+opencv-python
+ffmpeg
+Flask-Mail
